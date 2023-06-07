@@ -1,0 +1,14 @@
+
+.container {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    height: 100vh;
+}
+
+.container h1 {
+    text-align: center;
+    color: blue;
+    font-size: 5rem;
+    width: 100%;
+}
